@@ -86,7 +86,7 @@ def extract_json_from_crew_output(obj: Any):
 llm = LLM(
     provider="google",                    # or your provider
     model="gemini/gemini-2.0-flash",      # choose appropriate model
-    api_key="AIzaSyDs0NzztY8_SIxdAh5H_Db9DQ7D5eXBo5A"
+    api_key="your_api_key"
  # set CREWAI_API_KEY in your environment
 )
 
@@ -281,3 +281,4 @@ if __name__ == "__main__":
         json.dump(normalized, out_f, ensure_ascii=False, indent=2)
 
     print(f"✅ Output written to {output_path}")
+
