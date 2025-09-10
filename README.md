@@ -115,7 +115,5 @@ Output is written to `outputs.json` (overwritten each run).
 - python-dotenv (12-factor config). citeturn0search3  
 - API key safety best practices (example guidance). citeturn0search14
 
-## License
 
-Choose an appropriate license (MIT, Apache-2.0, etc.) and add `LICENSE` to the repository.
 
