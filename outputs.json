@@ -1,0 +1,133 @@
+[
+  {
+    "title": "Chicken and Vegetable Rice Bowl",
+    "used_ingredients": [
+      "chicken breast",
+      "onion",
+      "garlic",
+      "tomatoes",
+      "bell pepper",
+      "olive oil",
+      "rice"
+    ],
+    "missing_ingredients": [
+      "soy sauce",
+      "ginger",
+      "chicken broth"
+    ],
+    "pantry_staples": [
+      {
+        "name": "salt",
+        "required": "optional"
+      },
+      {
+        "name": "pepper",
+        "required": "optional"
+      }
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "difficulty": "easy",
+    "steps": [
+      "Cook rice according to package directions.",
+      "Dice chicken breast and season with salt and pepper.",
+      "Heat olive oil in a large skillet over medium-high heat.",
+      "Add chicken and cook until browned and cooked through.",
+      "Remove chicken from skillet and set aside.",
+      "Dice onion, bell pepper, and tomatoes. Mince garlic.",
+      "Add onion and bell pepper to the skillet and cook until softened, about 5 minutes.",
+      "Add garlic and tomatoes and cook for another 2 minutes.",
+      "Add chicken broth and soy sauce to the skillet and bring to a simmer.",
+      "Return chicken to the skillet and stir to combine.",
+      "Serve over rice."
+    ],
+    "notes": "For a spicier dish, add a pinch of red pepper flakes. Use brown rice for a healthier option."
+  },
+  {
+    "title": "Chicken, Tomato, and Bell Pepper Skillet",
+    "used_ingredients": [
+      "chicken breast",
+      "onion",
+      "garlic",
+      "tomatoes",
+      "bell pepper",
+      "olive oil"
+    ],
+    "missing_ingredients": [
+      "Italian seasoning",
+      "oregano"
+    ],
+    "pantry_staples": [
+      {
+        "name": "salt",
+        "required": "mandatory"
+      },
+      {
+        "name": "pepper",
+        "required": "mandatory"
+      }
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "difficulty": "easy",
+    "steps": [
+      "Dice chicken breast and season with salt, pepper, and Italian seasoning.",
+      "Heat olive oil in a large skillet over medium-high heat.",
+      "Add chicken and cook until browned and cooked through. Remove from skillet and set aside.",
+      "Dice onion and bell pepper. Mince garlic.",
+      "Add onion and bell pepper to the skillet and cook until softened, about 5 minutes.",
+      "Add garlic and cook for 1 minute more.",
+      "Add diced tomatoes, oregano, salt, and pepper. Simmer for 10 minutes, stirring occasionally.",
+      "Return chicken to the skillet and heat through.",
+      "Serve with rice."
+    ],
+    "notes": "Serve over rice or pasta. Garnish with fresh parsley."
+  },
+  {
+    "title": "Simple Chicken and Rice Soup",
+    "used_ingredients": [
+      "chicken breast",
+      "onion",
+      "garlic",
+      "tomatoes",
+      "rice"
+    ],
+    "missing_ingredients": [
+      "carrots",
+      "celery",
+      "chicken broth",
+      "bay leaf"
+    ],
+    "pantry_staples": [
+      {
+        "name": "salt",
+        "required": "mandatory"
+      },
+      {
+        "name": "pepper",
+        "required": "mandatory"
+      },
+      {
+        "name": "olive oil",
+        "required": "optional"
+      }
+    ],
+    "servings": 6,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 40,
+    "difficulty": "easy",
+    "steps": [
+      "Dice chicken breast.",
+      "Dice onion. Mince garlic.",
+      "Heat olive oil (optional) in a large pot or Dutch oven over medium heat.",
+      "Add onion and cook until softened, about 5 minutes.",
+      "Add garlic and cook for 1 minute.",
+      "Add chicken broth, diced tomatoes, rice, chicken and bay leaf.",
+      "Bring to a boil, then reduce heat and simmer for 30 minutes, or until rice is cooked.",
+      "Season with salt and pepper to taste."
+    ],
+    "notes": "Remove bay leaf before serving. Add other vegetables like carrots and celery for added nutrients."
+  }
+]
